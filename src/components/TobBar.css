@@ -1,0 +1,5 @@
+.form-topbar {
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
